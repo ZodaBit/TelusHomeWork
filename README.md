@@ -10,4 +10,5 @@ src
       + stepDefinitions  --------->             //describes testes in the form of Screenplay pattern
     + resources
         + features      --------->              Feature files  a.k.a Cucumber scenario
-        serenity.conf  --------->               configuration file , if we want to run headless mode  and many more
+          
+          serenity.conf  --------->               configuration file , if we want to run headless mode  and many more
